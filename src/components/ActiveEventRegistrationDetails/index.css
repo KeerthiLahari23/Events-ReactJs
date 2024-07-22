@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.active-event-registration-details {
+  margin: 20px;
+}
+.no-active-event-description {
+  text-align: center;
+}
+.yet-to-register {
+  height: 100px;
+  width: 100px;
+}
+.registered-image {
+  height: 100px;
+  width: 100px;
+}
+.register-closed{
+  height: 100px;
+  width: 100px;
+}

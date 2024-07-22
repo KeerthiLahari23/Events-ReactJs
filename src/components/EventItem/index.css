@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.event-button {
+  outline: none;
+  background-color: transparent;
+  border-style: none;
+}
+
+.event-image {
+  width: 150px;
+  height: 100px;
+}
+.event-item {
+  list-style-type: none;
+}
